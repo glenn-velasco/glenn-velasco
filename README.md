@@ -7,7 +7,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-glenn-velasco.vercel.app/api?username=glenn-velasco&count_private=true&show_icons=true&locale=en" alt="Glenn Velasco" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Maddator&" alt="Glenn Velasco" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glenn-velasco&" alt="Glenn Velasco" /></p>
 
 
 # Hi there, I'm Glenn Velasco 👋
