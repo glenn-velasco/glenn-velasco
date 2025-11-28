@@ -1,12 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=glenn-velasco&label=Profile%20views&color=0e75b6&style=flat" alt="Glenn Velasco" /> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=glenn-velasco)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-glenn-velasco.vercel.app/api?username=glenn-velasco&count_private=true&show_icons=true&locale=en" alt="Glenn Velasco" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glenn-velasco&" alt="Glenn Velasco" /></p>
-
-
 # Hi there, I'm Glenn Velasco 👋
 
 🎓 3rd Year IT College Student  
@@ -42,6 +33,10 @@ Optionally add social links here, for example:
 [LinkedIn](https://www.linkedin.com/in/your-link) | [Portfolio](https://your-website.com)
 -->
 
-<!--
-**glenn-velasco/glenn-velasco** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=glenn-velasco&label=Profile%20views&color=0e75b6&style=flat" alt="Glenn Velasco" /> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=glenn-velasco)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-glenn-velasco.vercel.app/api?username=glenn-velasco&count_private=true&show_icons=true&locale=en" alt="Glenn Velasco" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glenn-velasco&" alt="Glenn Velasco" /></p>
