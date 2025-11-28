@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glenn-velasco&label=Profile%20views&color=0e75b6&style=flat" alt="Glenn Velasco" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-glenn-velasco.vercel.app/?username=glenn-velasco" alt="Glenn Velasco" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=glenn-velasco)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-glenn-velasco.vercel.app/api?username=glenn-velasco&count_private=true&show_icons=true&locale=en" alt="Glenn Velasco" /></p>
 
